@@ -1,0 +1,6 @@
+package com.subifa.numbergenerator
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
